@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"csc22100.cellularautomata","l":"Automaton"},{"p":"csc22100.cellularautomata","l":"Main"},{"p":"csc22100.cellularautomata","l":"Simulator"}];updateSearchResults();
