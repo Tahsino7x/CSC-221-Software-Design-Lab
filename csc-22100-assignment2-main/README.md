@@ -1,6 +1,6 @@
 # CSc 22100 Spring 2022 Assigment 2
 
-In this assignment, we'll implement a simulation of 1-dimensional [elementary cellular automata](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html).
+We implemented a simulation of 1-dimensional [elementary cellular automata](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html).
 
 From [Mathworld](https://mathworld.wolfram.com/CellularAutomaton.html):
 
