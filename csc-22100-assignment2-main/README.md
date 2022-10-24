@@ -33,30 +33,6 @@ Write a program that does the following:
   - use X to indicate an 'on' cell and O to indicate an 'off' cell
   - if the number of iterations is 0, you should write the starting state
 
-### Submission
-
-For this assignment, I'm going to ask you to upload *two* things to Blackboard:
-- run `./gradlew packageAssignment` to build the same sort of zip file as we did in assignment 1
-- Download `source2pdf-all.jar` from Blackboard and put it in the root directory of your assignment (i.e. the one with `gradlew` in)
-- run `/.gradlew source2pdf` to generate a PDF of your source code. You can also build your pdf by running the sourc2pdf jar manually.
- 
-### Requirements/Grading
-- Implement the `Automaton` class. The precise details are up to you, but you should implement the methods as described in the UML diagram:
-
-![Automaton UML](./automaton.png)
-
-- Implement the `Simulator` class.
-- Write at least two (non-trivial!) tests for your `Automaton` class
-
-| Item                                                            | Points |
-|:----------------------------------------------------------------|:-------|
-| Javadoc and comments explaining main points                     | 2      |
-| Throws an exception if incorrect or invalid number of arguments | 2      |
-| Code readability and style                                      | 2      |
-| `Automaton` tests                                               | 2      |
-| Code compiles                                                   | 1      |
-| Tests pass                                                      | 1      |
-| Correctness: Hidden test cases                                  | 3      |
 
 ### Sample executions
 
